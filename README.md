@@ -2,10 +2,15 @@
 
 This project is a chatbot in React with a local FastAPI backend.
 
+Create your own token in hugging face. backend uses hugging face transformers.
+CLI: hf auth login
+https://hf.co/oauth/device
+
 No API keys, no recurring costs, full privacy — your prompts and responses stay on your machine. 
 Download model once and it's offline!
 Delete chat as you want. Only for fun. This model may not be suitable for any serious work.
 
+What else can you do with it? homework helper maybe?
 
 - Frontend: React + Vite (`src/`)
 - Backend: FastAPI + Transformers (`backend/`)
